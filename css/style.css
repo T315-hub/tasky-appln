@@ -1,0 +1,28 @@
+*
+{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body
+{
+    background-color:#d3e3e2 !important;
+}
+.add__new__button__mobile__only
+{
+    position:fixed;
+    left:0;
+    bottom:0;
+    padding:15px 10px;
+    width:100%;
+    background-color:#e8e6e7;
+    z-index:3;
+}
+/* @media (min-width:780px)
+{
+    .add__new__button__mobile__only
+    {
+        display:none;
+    }
+} */
+
